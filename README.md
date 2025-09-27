@@ -8,4 +8,4 @@ Repositorio de la asignatura analitica de datos
 
 # Notebooks de referencia :
 - Churn prediction  : https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction 
- 
+- foood delivery https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=test.csv
